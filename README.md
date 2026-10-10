@@ -1,2 +1,2 @@
 # data-driven-portfolio-
-its about me performing various data driven workloads and handle side projects
+IM A BACHELOR GUY WORKING ON TABLEAU,SQL,EXCEL,PYTHON AND BI.
